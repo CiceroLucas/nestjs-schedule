@@ -60,3 +60,16 @@ TYPEORM_USERNAME=
 TYPEORM_PASSWORD=
 TYPEORM_DATABASE=
 ```
+
+## User registration 
+
+```
+POST localhost:3000/user
+
+{
+  "name": "username",
+  "email": "name@example.com",
+  "password": "Password@12345"
+}
+
+```
