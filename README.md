@@ -3,6 +3,9 @@
 
 Esse projeto foi feito para aplicar meus conhecimentos em agendamento de email usando o Schedule do NestJS
 
+O projeto tem como objetivo enviar um email para todos os usuários cadastrados no sistema. Com o schedule fiz 
+com que um email de lembrete para um evento seja enviado de segunda a sexta às 7AM.
+
 ## Technologies
 * NestJS
 * PostgreSQL
